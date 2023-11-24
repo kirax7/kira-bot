@@ -1,7 +1,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></img>
-<h1 align="center">Anny Bot</h1>
+<h1 align="center">Kira Bot</h1>
 
-<p>Anny Bot foi pensado para ser um projeto open-source, isso significa que qualquer pessoa pudesse ter acesso ao código. Aí está, espero que gostem desse Bot quem fiz com tanto carinho :).</p>
+<p>Kira Bot foi pensado para ser um projeto open-source, isso significa que qualquer pessoa pudesse ter acesso ao código. Aí está, espero que gostem desse Bot quem fiz com tanto carinho :).</p>
 
 <p align="center">
   <a href="https://github.com/hell-ctrl">
@@ -28,7 +28,7 @@
 <div align="center"><img src="assets/preview.gif"></img></div>
 
 
-<h2>Comandos da Anny ✅</h2>
+<h2>Comandos da Kira ✅</h2>
 
 <p><strong>Aviso:</strong> Para usar os comandos, você precisa usar algúm dos prefixos antes dos comandos ("/", ".", "!").</p>
 
@@ -112,8 +112,8 @@
 <p>Siga os comandos de instalação abaixo:</p>
 
 ``` bash
-> git clone https://github.com/hell-ctrl/anny-bot/
-> cd anny-bot
+> git clone https://github.com/hell-ctrl/Kira-bot/
+> cd Kira-bot
 > npm i
 > chmod 777 start.sh
 > npm start
@@ -123,9 +123,9 @@
 
 ``` json
 {
-  "botNumber": "5598875512460", // seu número do bot
-  "botName": "Anny Bot", // nome do seu bot
-  "botOwner": "559887583208" // número do dono do bot
+  "botNumber": "+919188817577", // seu número do bot
+  "botName": "Kira Bot", // nome do seu bot
+  "botOwner": "919188817577" // número do dono do bot
 }
 ```
 <p><strong>Aviso:</strong> Se os comandos não funcionarem de primeira, espere um pouco e depois reinicie o bot.</p>
