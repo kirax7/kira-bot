@@ -32,7 +32,7 @@ async function profile(sock, messageFrom, sender, quoted, pushName, userDevice, 
 🗣️ Usuário: *${pushName}*
 📱 Dispositivo: *${userDevice}*
 💭 Bio: *${userBio}*
-🏦 Instituição: *Anny Bank*
+🏦 Instituição: *Kira Bank*
 ${isGroup ? `⚙️ Administrador? ${senderIsAdm ? "*Sim ✅*" : "*Não ❌*"}\n` : ""}
 ⭐「 % PORCENTAGEM % 」⭐
 
