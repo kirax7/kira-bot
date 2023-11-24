@@ -4,10 +4,10 @@
 <p>Kira Bot foi pensado para ser um projeto open-source, isso significa que qualquer pessoa pudesse ter acesso ao código. Aí está, espero que gostem desse Bot quem fiz com tanto carinho :).</p>
 
 <p align="center">
-  <a href="https://github.com/hell-ctrl">
+  <a href="https://github.com/Kira-bot">
     <img src="https://img.shields.io/badge/hell-ctrl-cyan.svg?style=for-the-badge&logo=github" alt="Author">
   </a>
-    <a href="https://wa.me/559887583208">
+    <a href="https://wa.me/919188817577">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
