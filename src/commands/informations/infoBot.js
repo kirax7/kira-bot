@@ -14,7 +14,7 @@ async function infoBot(sock, messageFrom, quoted, prefixs, botStartTime, isGroup
 │ ➤ Prefixos:「 ${prefixs.join("   ")} 」
 │ ➤ Criador: wa.me/${botOwner}
 │ ➤ Tempo online: ${elapsedTimeFormatted}
-│ ➤ Github: http://bit.ly/45n6Own
+│ ➤ Github: https://bit.ly/47KRQSo
 ╰══════════════ ⍨
 `;
     await sendVideo(sock, messageFrom, quoted, logo, { caption: text, gifPlayback: true });
