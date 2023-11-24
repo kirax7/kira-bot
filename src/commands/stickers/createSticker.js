@@ -24,7 +24,7 @@ async function makeSticker(mediaKey, sock, messageFrom, quoted, pushName) {
     const outputFile = `${tempFolderPath}sticker_${randomId}.webp`;
 
     const stickerMetaData = {
-      packname: "彡🤖 ᴄʀɪᴀᴅᴀ ᴘᴏʀ:\n↳ Anny Bot\n\n彡📱 ɴᴜ́ᴍᴇʀᴏ ᴅᴏ ʙᴏᴛ:\n↳ +55 98 8758-3208",
+      packname: "彡🤖 ᴄʀɪᴀᴅᴀ ᴘᴏʀ:\n↳ Kira Bot\n\n彡📱 ɴᴜ́ᴍᴇʀᴏ ᴅᴏ ʙᴏᴛ:\n↳ +91 918881 7577",
       author: `彡👑 ᴅᴏɴᴏ:\n↳ mneto_nx\n\n彡👤 ᴜsᴜᴀ́ʀɪᴏ:\n↳ ${pushName}`,
     };
 
